@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm a 24-year-old developer skilled in Flutter, Python, Firebase, and PocketBase.<br>I love creating impactful mobile apps and handling data efficiently. <br>Passionate about problem-solving and always eager to learn, I enjoy building with modern tools and exploring the future of tech.<br>Aspiring entrepreneur and tech enthusiast, constantly working to bring new ideas to life.
 
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erfansworld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erfanmanafi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/erfanmanafi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/erfanmanafi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/erfanmanafi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/erfanmanafi) 
