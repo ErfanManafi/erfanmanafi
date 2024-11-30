@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me
 I'm a 24-year-old developer skilled in Flutter, Python, Firebase, and PocketBase.<br>I love creating impactful mobile apps and handling data efficiently. <br>Passionate about problem-solving and always eager to learn, I enjoy building with modern tools and exploring the future of tech.<br>Aspiring entrepreneur and tech enthusiast, constantly working to bring new ideas to life.
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
