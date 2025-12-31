@@ -1,5 +1,5 @@
 # About Me
-I'm a 24-year-old developer skilled in Python, Django, Flutter, Firebase, and PocketBase.<br>I love creating impactful mobile apps and back-end services to handling data efficiently. <br>Passionate about problem-solving and always eager to learn, I enjoy building with modern tools and exploring the future of tech.
+I'm a 25-year-old developer skilled in Python, Django, Fastapi, Flutter, Firebase, and PocketBase.<br>I love creating impactful mobile apps and back-end services to handling data efficiently. <br>Passionate about problem-solving and always eager to learn, I enjoy building with modern tools and exploring the future of tech.
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
@@ -13,11 +13,6 @@ I'm a 24-year-old developer skilled in Python, Django, Flutter, Firebase, and Po
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ErfanManafi&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanManafi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ErfanManafi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ErfanManafi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ErfanManafi&icon=0&color=0)](https://visitcount.itsvg.in)
